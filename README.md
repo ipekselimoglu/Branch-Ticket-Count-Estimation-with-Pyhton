@@ -1,4 +1,4 @@
-# Branch-Ticket-Count-Estimation-with-Pyhton
+# Branch-Ticket-Count-Estimation-with-Python
 Objective:
 This project aims to estimate the ticket count for a retail branch using historical data. The goal is to develop a model that predicts the number of tickets for a specific branch based on date and time information.
 
